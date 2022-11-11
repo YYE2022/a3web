@@ -1,0 +1,36 @@
+### Poject Topic: "Company" Website
+
+#### Page 1
+# Page Title: Home
+# Basic Description: Company name, background image, simple "company slogan"
+# Author:
+
+
+#### Page 2
+# Page Title: Services
+# Basic Description: List of GIS services and short description of each. Maybe something like: digitizing, georeferencing, geocoding, spatial analyses, remote sensing, etc.
+# Author:
+
+
+#### Page 3
+# Page Title: Project Examples
+# Basic Description: Some screenshots of projects done in the program?
+# Author:
+
+
+#### Page 4
+# Page Title: Our Team
+# Basic Description: Group members and maybe short introduction?
+# Author:
+
+
+#### Page 5
+# Page Title: Contact page
+# Basic Description: Put general (or fake) contact info... Maybe create a contact form?
+# Author:
+
+
+#### Page 6
+# Page Title: Office
+# Basic Description: We could put google maps API/ image of fleming college and call it our "office" and put address info and fake phone number beside it
+# Author:
