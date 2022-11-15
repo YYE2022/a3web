@@ -23,7 +23,7 @@
 #### Page 4
 # Page Title: Our Team
 # Basic Description: Group members and maybe short introduction?
-# Author:
+# Author:CV
 
 
 #### Page 5
@@ -41,4 +41,4 @@
 ### Another Page Option:
 # Page Title: Pricing
 # Basic Description: We could have something like "basic", "Pro" and "Premium" pricings put into 3 different text boxes
-# Author:
+# Author:CV
