@@ -29,13 +29,13 @@
 #### Page 5
 # Page Title: Contact page
 # Basic Description: Put general (or fake) contact info... Maybe create a contact form?
-# Author:
+# Author: YJ
 
 
 #### Page 6
 # Page Title: Office
 # Basic Description: We could put google maps API/ image of fleming college and call it our "office" and put address info and fake phone number beside it
-# Author:
+# Author: YJ
 
 
 ### Another Page Option:
