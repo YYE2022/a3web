@@ -33,12 +33,6 @@
 
 
 #### Page 6
-# Page Title: Office
-# Basic Description: We could put google maps API/ image of fleming college and call it our "office" and put address info and fake phone number beside it
-# Author:
-
-
-### Another Page Option:
 # Page Title: Pricing
 # Basic Description: We could have something like "basic", "Pro" and "Premium" pricings put into 3 different text boxes
 # Author:
