@@ -5,13 +5,13 @@
 #### Page 1
 # Page Title: Home
 # Basic Description: Company name, background image, simple "company slogan"
-# Author:
+# Author: HE
 
 
 #### Page 2
 # Page Title: Services
 # Basic Description: List of GIS services and short description of each. Maybe something like: digitizing, georeferencing, geocoding, spatial analyses, remote sensing, etc.
-# Author:
+# Author: HE
 
 
 #### Page 3
