@@ -23,16 +23,20 @@
 #### Page 4
 # Page Title: Our Team
 # Basic Description: Group members and maybe short introduction?
-# Author:
+# Author:CV
+
 
 
 #### Page 5
-# Page Title: Contact page
-# Basic Description: Put general (or fake) contact info... Maybe create a contact form?
-# Author:
+<<<<<<< HEAD
+=======
+# Page Title: Office
+# Basic Description: We could put google maps API/ image of fleming college and call it our "office" and put address info and fake phone number beside it
+# Author: YJ
 
 
-#### Page 6
+### Page 6:
+>>>>>>> 922462026cd0b8d8408515f93324052cee44c747
 # Page Title: Pricing
 # Basic Description: We could have something like "basic", "Pro" and "Premium" pricings put into 3 different text boxes
-# Author:
+# Author:CV
