@@ -53,5 +53,4 @@
 ### Approximate Timeline:
 # Week 12: Have Template design completed
 # Week 13:
-# Week 14:
-# Week 15:
+# Week 14: Project Due
