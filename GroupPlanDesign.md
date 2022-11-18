@@ -7,7 +7,7 @@
 # Nav-bar: Whole group?
 # Header: Hillary
 # Body:
-# Footer: 
+# Footer: Chris
 
 
 
