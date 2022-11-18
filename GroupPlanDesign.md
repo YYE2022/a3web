@@ -3,7 +3,7 @@
 ### Different Page Ideas:
 
 #### Page 1
-# Page Title: Home
+# Page Title: Home (main index.html file)
 # Basic Description: Company name, background image, simple "company slogan"
 # Author: HE
 
