@@ -52,5 +52,5 @@
 ######
 ### Approximate Timeline:
 # Week 12: Have Template design completed
-# Week 13:
-# Week 14: Project Due
+# Week 13: Have all our own html content in
+# Week 14: Project Due (Final touch-ups)
