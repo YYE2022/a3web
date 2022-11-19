@@ -5,8 +5,7 @@
 ######
 # Css contributions of each member:
 
-### Nav-bar: Whole group?
-### Header: Hillary
+### Nav-bar/ Header: Hillary
 ### Body: 
 ### Footer: Chris
 
