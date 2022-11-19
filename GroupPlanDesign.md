@@ -6,7 +6,7 @@
 # Css contributions of each member:
 
 ### Nav-bar/ Header: Hillary
-### Body: Yingjia?
+### Body: Yingjia
 ### Footer: Chris
 
 
