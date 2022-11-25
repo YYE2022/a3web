@@ -1,6 +1,9 @@
 # CSS Template retrieved from https://www.w3schools.com/w3css/tryw3css_templates_startup.htm#team
 
 
+### Below is the full template/ orignal layout (before seperating each page into seperate html files)
+##
+
 <!DOCTYPE html>
 <html>
 <head>
