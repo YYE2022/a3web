@@ -1,101 +1,203 @@
 <!DOCTYPE html>
-<html>
-<head>
-<title>Company Website</title> <!--Need to choose Tab Title-->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="StyleSheet.css" rel="stylesheet"> <!--Link to our css file-->
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+
+    <title>Geospatial Visions</title>
+    <link rel="icon" type="image/x-icon" href="/a3web/images/Tabicon.ico">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/vendor/bootstrap/css/bootstrap.min.css">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/templatemo-seo-dream.css">
+    <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/animated.css">
+    <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/owl.css">
+
+    <!-- Our CSS file to overwrite template -->
+    <link rel="stylesheet" href="/a3web/css/stylesheet.css">
+<!--
+
+TemplateMo 563 SEO Dream
+
+https://templatemo.com/tm-563-seo-dream
+
+-->
 
 </head>
+
 <body>
-
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="./index.html" class="w3-bar-item w3-button w3-wide">HOME</a>
-    <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
-      <a href="./Services.html" class="w3-bar-item w3-button">SERVICES</a>
-      <a href="./Team.html" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
-      <a href="./ProjectExamples.html" class="w3-bar-item w3-button"><i class="fa fa-th"></i> PROJECT EXAMPLES</a>
-      <a href="./Pricing.html" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> PRICING</a>
-      <a href="./Office.html" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i>OFFICE</a>
+  
+<!-- ***** Header Area Start ***** -->
+ <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <nav class="main-nav">
+            <!-- ***** Logo Start ***** -->
+            <a href="index.html" class="logo">
+              <h4>Geospatial Visions <img src="assets/images/logo-icon.png" alt=""></h4>
+            </a>
+            <!-- ***** Logo End ***** -->
+            <!-- ***** Menu Start ***** -->
+            <ul class="nav">
+                <li class="scroll-to-section"><a href="index.html" class="active">Home</a></li>
+                <li class="scroll-to-section"><a href="Services.html">Services</a></li>
+                <li class="scroll-to-section"><a href="OurTeam.html">Our Team</a></li>
+                <li class="scroll-to-section"><a href="ProjectExamples.html">Project Examples</a></li>
+                <li class="scroll-to-section"><a href="Pricing.html">Pricing</a></li>
+                <li class="scroll-to-section"><a href="OurOffice.html">Our Office</a></li>
+              </ul>        
+            <a class='menu-trigger'>
+                <span>Menu</span>
+            </a>
+            <!-- ***** Menu End ***** -->
+          </nav>
+        </div>
+      </div>
     </div>
-    
-    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+  </header>
+  <!-- ***** Header Area End ***** -->
 
-    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
-      <i class="fa fa-bars"></i>
-    </a>
+  <div id="portfolio" class="our-portfolio section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5">
+          <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <h6>Our Portofolio</h6>
+            <h2>Discover Our Recent <em>Projects</em> And <span>Showcases</span></h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="loop owl-carousel">
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-01.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 101</h4></a>
+                      <span>Marketing</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-04.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 102</h4></a>
+                      <span>Branding</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-02.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 103</h4></a>
+                      <span>Consulting</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-05.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 104</h4></a>
+                      <span>Artwork</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-03.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 105</h4></a>
+                      <span>Branding</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-06.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 106</h4></a>
+                      <span>Artwork</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-04.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 107</h4></a>
+                      <span>Creative</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="assets/images/portfolio-01.jpg" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 108</h4></a>
+                      <span>Consulting</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
 
-<!-- Sidebar on small screens when clicking the menu icon -->
-<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-  <a href="./Services.html" onclick="w3_close()" class="w3-bar-item w3-button">SERVICES</a>
-  <a href="./Team.html" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
-  <a href="./ProjectExamples.html" onclick="w3_close()" class="w3-bar-item w3-button">PROJECT EXAMPLES</a>
-  <a href="./Pricing.html" onclick="w3_close()" class="w3-bar-item w3-button">PRICING</a>
-  <a href="./Office.html" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
-</nav>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright © 2021 SEO Dream Co., Ltd. All Rights Reserved. 
+          
+          <br>Web Designed by <a rel="nofollow" href="https://templatemo.com" title="free CSS templates">TemplateMo</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
 
-<!-- "Pricing" page. External html page #4
-By: Christopher -->
-<div class="w3-container w3-center w3-dark-grey" style="padding:128px 16px" id="pricing">
-  <h3>PRICING</h3>
-  <p class="w3-large">Choose a pricing plan that fits your needs.</p>
-  <div class="w3-row-padding" style="margin-top:64px">
-    <div class="w3-third w3-section">
-      <ul class="w3-ul w3-white w3-hover-shadow">
-        <li class="w3-black w3-xlarge w3-padding-32">Basic</li>
-        <li class="w3-padding-16"><b>10GB</b> Storage</li>
-        <li class="w3-padding-16"><b>10</b> Emails</li>
-        <li class="w3-padding-16"><b>10</b> Domains</li>
-        <li class="w3-padding-16"><b>Endless</b> Support</li>
-        <li class="w3-padding-16">
-          <h2 class="w3-wide">$ 10</h2>
-          <span class="w3-opacity">per month</span>
-        </li>
-        <li class="w3-light-grey w3-padding-24">
-          <button class="w3-button w3-black w3-padding-large">Sign Up</button>
-        </li>
-      </ul>
-    </div>
-    <div class="w3-third">
-      <ul class="w3-ul w3-white w3-hover-shadow">
-        <li class="w3-red w3-xlarge w3-padding-48">Pro</li>
-        <li class="w3-padding-16"><b>25GB</b> Storage</li>
-        <li class="w3-padding-16"><b>25</b> Emails</li>
-        <li class="w3-padding-16"><b>25</b> Domains</li>
-        <li class="w3-padding-16"><b>Endless</b> Support</li>
-        <li class="w3-padding-16">
-          <h2 class="w3-wide">$ 25</h2>
-          <span class="w3-opacity">per month</span>
-        </li>
-        <li class="w3-light-grey w3-padding-24">
-          <button class="w3-button w3-black w3-padding-large">Sign Up</button>
-        </li>
-      </ul>
-    </div>
-    <div class="w3-third w3-section">
-      <ul class="w3-ul w3-white w3-hover-shadow">
-        <li class="w3-black w3-xlarge w3-padding-32">Premium</li>
-        <li class="w3-padding-16"><b>50GB</b> Storage</li>
-        <li class="w3-padding-16"><b>50</b> Emails</li>
-        <li class="w3-padding-16"><b>50</b> Domains</li>
-        <li class="w3-padding-16"><b>Endless</b> Support</li>
-        <li class="w3-padding-16">
-          <h2 class="w3-wide">$ 50</h2>
-          <span class="w3-opacity">per month</span>
-        </li>
-        <li class="w3-light-grey w3-padding-24">
-          <button class="w3-button w3-black w3-padding-large">Sign Up</button>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+
+</body>
+</html>
+
