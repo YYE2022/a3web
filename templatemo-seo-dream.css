@@ -182,7 +182,7 @@ body {
 .section-heading h6 {
   font-size: 15px;
   font-weight: 700;
-  color: #33ccc5;
+  color: #e6e88a;
   text-transform: uppercase;
   margin-bottom: 15px;
 
@@ -200,7 +200,7 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #33ccc5;
+  color: #e6e88a;
 }
 
 .section-heading h2 span {
@@ -209,7 +209,7 @@ body {
 
 .main-blue-button a {
   display: inline-block;
-  background-color: #4771cb;
+  background-color: #c4865d;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -223,13 +223,13 @@ body {
 
 .main-blue-button a:hover {
   background-color: #fff!important;
-  color: #4771cb!important;
-  border-bottom: 2px solid #4771cb!important;
+  color: #c4865d!important;
+  border-bottom: 2px solid #c4865d!important;
 }
 
 .main-green-button a {
   display: inline-block;
-  background-color: #33ccc5;
+  background-color: #e6e88a;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -237,14 +237,14 @@ body {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 2px solid #c4865d!important;
   transition: all .3s;
 }
 
 .main-green-button a:hover {
-  background-color: #4771cb!important;
+  background-color: #c4865d!important;
   color: #fff!important;
-  border-bottom: 2px solid #33ccc5!important;
+  border-bottom: 2px solid #e6e88a!important;
 }
 
 
@@ -255,7 +255,7 @@ header
 */
 
 .background-header {
-  background-color: #33ccc5!important;
+  background-color: #e6e88a!important;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -282,7 +282,7 @@ header
   position: absolute;
   width: 20px;
   height: 2px;
-  background-color: #4771cb;
+  background-color: #c4865d;
   content: '';
   left: 50%;
   bottom: 0px;
@@ -374,7 +374,7 @@ header
 
 .header-area .main-nav .nav li:last-child a:hover ,
 .background-header .main-nav .nav li:last-child a:hover {
-  color: #4771cb !important;
+  color: #c4865d !important;
 }
 
 .header-area .main-nav .nav li a {
@@ -1586,14 +1586,14 @@ form#contact button {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 2px solid #c4865d!important;
   transition: all .3s;
   outline: none;
   border: none;
 }
 
 form#contact button:hover {
-  background-color: #4771cb!important;
+  background-color: #c4865d!important;
   color: #fff!important;
   border-bottom: 2px solid #e6e88a!important;
 }
@@ -1615,7 +1615,7 @@ footer p a {
 }
 
 footer p a:hover {
-  color: #4771cb;
+  color: #c4865d;
 }
 
 /* 
