@@ -1,10 +1,4 @@
-{
-  box-sizing: border-box;
-}
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
 
 
 /*Over-writing line colour on Services page*/
@@ -23,7 +17,6 @@
 
 
 /* testing meet the team columns-chris */
-
 
 
 .column {
