@@ -88,7 +88,7 @@
     overflow: hidden;
     text-align: left;
 }
-.wrap {
+.wrap2 {
     position: relative;
     margin: 0 auto;
     padding: 20px;
@@ -104,25 +104,25 @@
   color: #fff;
     text-decoration: none;
 }
-.left {
+.left2 {
     float: left;
     width: 25%;
 }
-.right {
+.right2 {
     float: right;
     width: 25%;
 }
-.centered {
+.centered2 {
     overflow: hidden; /* claim the left over width between these 25% floats */
 }
-.social {
+.social2 {
     float: right;
     width: 50%; /* of the squished parent width */
 }
-input {
+input2 {
     font-size: 100%;
 }
-.subscribe_button {
+.subscribe_button2 {
     margin: 0;
     padding: 14px 0;
     min-width: 200px;
