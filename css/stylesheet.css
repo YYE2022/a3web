@@ -78,13 +78,20 @@
 
 
 /* pls dont delet testing footer -chris*/
-
-
 #footer {
+    position:fixed;
+    overflow: hidden;
+    bottom:0;
+    text-align: left;
+}
+
+/*  #footer {
     position: relative;
     overflow: hidden;
     text-align: left;
-}
+} */
+
+
 .wrap2 {
     position: relative;
     margin: 0 auto;
