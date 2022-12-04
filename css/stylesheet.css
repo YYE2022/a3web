@@ -27,9 +27,6 @@
   margin-top: var(--bs-gutter-y);
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
 
 .column2 {
   float: left;
