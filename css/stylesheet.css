@@ -517,8 +517,19 @@
   width: 33.3333333333%;
 }
 
+.rowIndex {
+  --bs-gutter-x: 1 em;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(var(--bs-gutter-y) * -1);
+  margin-right: calc(var(--bs-gutter-x) / -2);
+  margin-left: calc(var(--bs-gutter-x) / -2);
+}
+
 h5 {
   display: block;
+  font-size: 1.5em;
   margin-block-start: 2.33em;
   margin-block-end: 2.33em;
   margin-inline-start: 0px;
@@ -527,7 +538,8 @@ h5 {
   color: #985289;
   z-index: 2;
   position: relative;
-  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h1 {
