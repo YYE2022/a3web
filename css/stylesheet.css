@@ -517,22 +517,21 @@
   width: 33.3333333333%;
 }
 
-
-.index-banner .left-side {
-  margin-right: 45px;
-}
-
-.index-banner {
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding: 226px 0px 120px 0px;
+h5 {
+  display: block;
+  margin-block-start: 2.33em;
+  margin-block-end: 2.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  color: #985289;
+  z-index: 2;
   position: relative;
-  overflow: hidden;
+  font-size: 20px;
 }
 
-#Title {
-  border-top: 1px solid #eee;
+h1 {
+  border-top: 1px solid rgb(73, 74, 122);
   margin-top: 30px;
   padding-top: 20px;
   margin-bottom: 45px;
@@ -540,28 +539,13 @@
   font-weight: 800;
   color: #2a2a2a;
   line-height: 72px;
-  background: #C38D9E;
-  background: -webkit-linear-gradient(to right, #C38D9E 0%, #985289 100%);
-  background: -moz-linear-gradient(to right, #C38D9E 0%, #985289 100%);
-  background: linear-gradient(to right, #C38D9E 0%, #985289 100%);
+  background: #c38d9e;
+  background: -webkit-linear-gradient(to right, #c38d9e 0%, #985289 100%);
+  background: -moz-linear-gradient(to right, #c38d9e 0%, #985289 100%);
+  background: linear-gradient(to right, #c38d9e 0%, #985289 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  flex: 0 0 auto;
-  width: 100%;
-
 }
-
-h5 {
-  display: block;
-  font-size: 0.67em;
-  margin-block-start: 2.33em;
-  margin-block-end: 2.33em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-weight: bold;
-  color: #985289;
-}
-
 
 /*Over-writing css on Services page*/
 .line-service {
