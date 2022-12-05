@@ -535,7 +535,7 @@ h5 {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   font-weight: bold;
-  color: #985289;
+  color: #1f77be;
   z-index: 2;
   position: relative;
   margin-top: 0px;
@@ -551,10 +551,10 @@ h1 {
   font-weight: 800;
   color: #2a2a2a;
   line-height: 72px;
-  background: #c38d9e;
-  background: -webkit-linear-gradient(to right, #c38d9e 0%, #985289 100%);
-  background: -moz-linear-gradient(to right, #c38d9e 0%, #985289 100%);
-  background: linear-gradient(to right, #c38d9e 0%, #985289 100%);
+  background: #5e93be;
+  background: -webkit-linear-gradient(to right, #5e93be 0%, #1f77be 100%);
+  background: -moz-linear-gradient(to right, #5e93be 0%, #1f77be 100%);
+  background: linear-gradient(to right, #5e93be 0%, #1f77be 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
