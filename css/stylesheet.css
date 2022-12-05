@@ -507,6 +507,43 @@
   border-bottom: 2px solid #379f91!important;
 }
 
+.columnIndex {
+  flex: 0 0 auto;
+  width: 33.3333333333%;
+}
+
+.colSm4 {
+  flex: 0 0 auto;
+  width: 33.3333333333%;
+}
+
+.index-banner {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 226px 0px 120px 0px;
+  position: relative;
+  overflow: hidden;
+}
+
+.index-banner .left-content h2 {
+  border-top: 1px solid #eee;
+  margin-top: 30px;
+  padding-top: 20px;
+  margin-bottom: 45px;
+  font-size: 60px;
+  font-weight: 800;
+  color: #2a2a2a;
+  line-height: 72px;
+  background: #C38D9E;
+  background: -webkit-linear-gradient(to right, #C38D9E 0%, #985289 100%);
+  background: -moz-linear-gradient(to right, #C38D9E 0%, #985289 100%);
+  background: linear-gradient(to right, #C38D9E 0%, #985289 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
 
 
 /*Over-writing css on Services page*/
