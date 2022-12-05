@@ -517,6 +517,11 @@
   width: 33.3333333333%;
 }
 
+.index-banner .left-side {
+  margin-right: 45px;
+}
+
+
 .index-banner {
   background-repeat: no-repeat;
   background-position: center center;
@@ -526,7 +531,7 @@
   overflow: hidden;
 }
 
-.index-banner .left-content h2 {
+.index-banner .left-side h2 {
   border-top: 1px solid #eee;
   margin-top: 30px;
   padding-top: 20px;
