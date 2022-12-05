@@ -531,7 +531,7 @@
   overflow: hidden;
 }
 
-.Title {
+#Title {
   border-top: 1px solid #eee;
   margin-top: 30px;
   padding-top: 20px;
