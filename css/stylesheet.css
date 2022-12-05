@@ -11,11 +11,24 @@
   background-color: #e27D60;
 }
 
-.features-item .first-number h6 {
-  /* background-image: url(../images/features-number-01.png); */
-  background-color: #e27D60;
-}
 
+
+
+.features-item .number h6 {
+  background-repeat: no-repeat;
+  background-color: #e27D60;
+  width: 110px;
+  height: 69px;
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 69px;
+  margin-top: -65px;
+  margin-bottom: 30px;
+}
 
 
 
