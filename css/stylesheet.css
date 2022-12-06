@@ -517,6 +517,17 @@
 
 
 
+.NavOption {
+  visibility: visible;
+  -webkit-animation-duration: 0.75s;
+  -moz-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  animation-delay: 0s;
+}
+
+
 /*Over-writing css on Index page*/
 .main-green-button a {
   display: inline-block;
