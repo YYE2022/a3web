@@ -225,7 +225,7 @@
   transition-delay: 0s, 0s, 0.3s;
 }
 
-.header-new .main-Nav .menu-trigger {
+.header-new .main-Nav .menu-Trig {
   cursor: pointer;
   display: block;
   position: absolute;
@@ -238,13 +238,13 @@
   display: none;
 }
 
-.background-header .main-Nav .menu-trigger {
+.background-header .main-Nav .menu-Trig {
   top: 23px;
 }
 
-.header-new .main-Nav .menu-trigger span,
-.header-new .main-Nav .menu-trigger span:before,
-.header-new .main-Nav .menu-trigger span:after {
+.header-new .main-Nav .menu-Trig span,
+.header-new .main-Nav .menu-Trig span:before,
+.header-new .main-Nav .menu-Trig span:after {
   -moz-transition: all 0.4s;
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
@@ -257,14 +257,14 @@
   left: 0;
 }
 
-.background-header .main-Nav .menu-trigger span,
-.background-header .main-Nav .menu-trigger span:before,
-.background-header .main-Nav .menu-trigger span:after {
+.background-header .main-Nav .menu-Trig span,
+.background-header .main-Nav .menu-Trig span:before,
+.background-header .main-Nav .menu-Trig span:after {
   background-color: #fff;
 }
 
-.header-new .main-Nav .menu-trigger span:before,
-.header-new .main-Nav .menu-trigger span:after {
+.header-new .main-Nav .menu-Trig span:before,
+.header-new .main-Nav .menu-Trig span:after {
   -moz-transition: all 0.4s;
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
@@ -278,21 +278,21 @@
   width: 75%;
 }
 
-.background-header .main-Nav .menu-trigger span:before,
-.background-header .main-Nav .menu-trigger span:after {
+.background-header .main-Nav .menu-Trig span:before,
+.background-header .main-Nav .menu-Trig span:after {
   background-color: #fff;
 }
 
-.header-new .main-Nav .menu-trigger span:before,
-.header-new .main-Nav .menu-trigger span:after {
+.header-new .main-Nav .menu-Trig span:before,
+.header-new .main-Nav .menu-Trig span:after {
   content: "";
 }
 
-.header-new .main-Nav .menu-trigger span {
+.header-new .main-Nav .menu-Trig span {
   top: 16px;
 }
 
-.header-new .main-Nav .menu-trigger span:before {
+.header-new .main-Nav .menu-Trig span:before {
   -moz-transform-origin: 33% 100%;
   -ms-transform-origin: 33% 100%;
   -webkit-transform-origin: 33% 100%;
@@ -301,7 +301,7 @@
   z-index: 10;
 }
 
-.header-new .main-Nav .menu-trigger span:after {
+.header-new .main-Nav .menu-Trig span:after {
   -moz-transform-origin: 33% 0;
   -ms-transform-origin: 33% 0;
   -webkit-transform-origin: 33% 0;
@@ -309,14 +309,14 @@
   top: 10px;
 }
 
-.header-new .main-Nav .menu-trigger.active span,
-.header-new .main-Nav .menu-trigger.active span:before,
-.header-new .main-Nav .menu-trigger.active span:after {
+.header-new .main-Nav .menu-Trig.active span,
+.header-new .main-Nav .menu-Trig.active span:before,
+.header-new .main-Nav .menu-Trig.active span:after {
   background-color: transparent;
   width: 100%;
 }
 
-.header-new .main-Nav .menu-trigger.active span:before {
+.header-new .main-Nav .menu-Trig.active span:before {
   -moz-transform: translateY(6px) translateX(1px) rotate(45deg);
   -ms-transform: translateY(6px) translateX(1px) rotate(45deg);
   -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
@@ -324,11 +324,11 @@
   background-color: #fff;
 }
 
-.background-header .main-Nav .menu-trigger.active span:before {
+.background-header .main-Nav .menu-Trig.active span:before {
   background-color: #fff;
 }
 
-.header-new .main-Nav .menu-trigger.active span:after {
+.header-new .main-Nav .menu-Trig.active span:after {
   -moz-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
@@ -336,7 +336,7 @@
   background-color: #fff;
 }
 
-.background-header .main-Nav .menu-trigger.active span:after {
+.background-header .main-Nav .menu-Trig.active span:after {
   background-color: #fff;
 }
 
@@ -401,7 +401,7 @@
   .header-new .logo {
     margin-left: 30px;
   }
-  .header-new .menu-trigger {
+  .header-new .menu-Trig {
     display: block !important;
   }
   .header-new .main-Nav {
