@@ -22,6 +22,10 @@
     <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/animated.css">
     <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/owl.css">
 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheet.css">
+
+
 <!--
 
 TemplateMo 563 SEO Dream
@@ -34,6 +38,23 @@ https://templatemo.com/tm-563-seo-dream
 
 <body>
 
+  <!-- Simulate a smartphone / tablet -->
+  <div class="mobile-container">
+
+    <!-- Top Navigation Menu -->
+    <div class="topnav">
+      <a href="#home" class="active">Home</a>
+      <div id="myLinks">
+        <a href="Services.html">Services</a>
+        <a href="OurTeam.html">Our Team</a>
+        <a href="ProjectExamples.html">Project Examples</a>
+        <a href="Pricing.html">Pricing</a>
+        <a href="OurOffice.html">Our Office</a>
+      </div>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
@@ -46,7 +67,8 @@ https://templatemo.com/tm-563-seo-dream
               <h4>Geospatial Visions</h4>
             </a>
             <!-- ***** Logo End ***** -->
-            <!-- ***** Menu Start ***** -->
+            <!-- ***** Menu Start-- OLD ***** -->
+          <!--
             <ul class="nav">
               <li class="scroll-to-section"><a href="index.html" class="active">Home</a></li>
               <li class="scroll-to-section"><a href="Services.html">Services</a></li>
@@ -58,6 +80,7 @@ https://templatemo.com/tm-563-seo-dream
             <a class='menu-trigger'>
                 <span>Menu</span>
             </a>
+          -->
             <!-- ***** Menu End ***** -->
           </nav>
         </div>
@@ -128,6 +151,20 @@ https://templatemo.com/tm-563-seo-dream
       </div>
     </div>
   </footer>
+
+
+  <script>
+  function myFunction() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+  </script>
+
+
 
   <!-- Scripts -->
   <script src="vendor/jquery/jquery.min.js"></script>
