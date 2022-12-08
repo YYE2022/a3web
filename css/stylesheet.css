@@ -807,7 +807,7 @@ section
 	}
 .col-lg-4 {
     flex: auto;
-    width: 100%;
+    /*width: 100%;*/
   }
 .col-lg-8 {
     flex: auto;
