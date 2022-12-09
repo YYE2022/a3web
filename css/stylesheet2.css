@@ -247,7 +247,7 @@ input2 {
 
 /* 
 ---------------------------------------------
-section 
+project example page
 --------------------------------------------- 
 */
 .section-h {
@@ -284,6 +284,18 @@ section
     width: 100%;
   }
 
+.newclass{
+text-align:center;
+border:solid;
+width:50%;
+border-radius:40px;
+border-color:#e8a87c;
+margin:auto;
+padding:20px;}
+.newclass p{color:#6d9773;
+font-weight:bold;
+font-size:1.5vw;
+}
 
 /* 
 ---------------------------------------------
@@ -341,21 +353,8 @@ Services Style
   text-align:center;
 }
 
-.newclass{
-text-align:center;
-border:solid;
-width:50%;
-border-radius:40px;
-border-color:#e8a87c;
-margin:auto;
-padding:20px;}
-.newclass p{color:#6d9773;
-font-weight:bold;
-font-size:1.5vw;
-}
 
 /*contact page*/
-
 .contact-us {
 background-image:none;
 padding:50px;
@@ -452,7 +451,7 @@ background-color: #f4b37d!important;}
 
 /*header*/
 .header {padding:10px;
-  background-color: #6d9773;
+  background-color: #2d6131; /*6d9773; */
   font-size:20px;
   font-weight:bold;
 }
@@ -463,10 +462,7 @@ ul.topnav {
   margin-top: 20px;
   padding: 0;
   overflow: hidden;
-
   position:relative;
-
-  
 }
 
 ul.topnav li {float: left;}
@@ -478,8 +474,6 @@ display:block;
   padding: 20px 16px;
   text-decoration: none;
 }
-
-
 
 ul.topnav li a.active {border-bottom: 5px solid white;}
 
