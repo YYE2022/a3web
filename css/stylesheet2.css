@@ -169,14 +169,16 @@ background-color: #f4b37d;
   display: inline-block;
   padding: 8px;
   color: white;
-  background-color: #000;
+  background-color: #f4b37d;
   text-align: center;
   cursor: pointer;
   width: 100%;
+  border-radius: 5px;
 }
 
 .button2:hover {
   background-color: #555;
+
 }
 
 
