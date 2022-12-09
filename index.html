@@ -46,7 +46,7 @@ https://templatemo.com/tm-563-seo-dream
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <h4>SEO Dream ></h4>
+              <h4>SEO Dream</h4>
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->   
@@ -134,15 +134,24 @@ https://templatemo.com/tm-563-seo-dream
     </div>
   </footer>
 
-<script>
-(function () {
-  var size='970x90|320x100',
-      adunit = 'templatemo.com_970x90_anchor_DFP',
-      childNetworkId = '22381294811',
-      xmlhttp = new XMLHttpRequest();xmlhttp.onreadystatechange = function(){if(xmlhttp.readyState==4 && xmlhttp.status==200){var iframe=document.getElementById(adunit).contentWindow.document;iframe.open();iframe.write(xmlhttp.responseText);iframe.close();}};var child=childNetworkId.trim()?','+childNetworkId.trim():'';xmlhttp.open("GET", 'https://pubads.g.doubleclick.net/gampad/adx?iu=/147246189'+child+'/'+adunit+'&sz='+encodeURI(size)+'&t=Placement_type%3Dserving&'+Date.now(), true);xmlhttp.send();})();
-</script>
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-  
+  <script src="assets/js/isotope.min.js"></script>
+  <script src="assets/js/owl-carousel.js"></script>
+  <script src="assets/js/wow.js"></script>
+  <script src="assets/js/tabs.js"></script>
+  <script src="assets/js/popup.js"></script>
+  <script src="assets/js/custom.js"></script>
+
+  <script>
+    $(".option").click(function(){
+      $(".option").removeClass("active");
+      $(this).addClass("active"); 
+    });
+  </script>
 
 
 </body>
