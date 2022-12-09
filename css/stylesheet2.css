@@ -484,7 +484,7 @@ display:block;
 
 
 ul.topnav li a:hover{color:black;}
-ul.topnav li a.active {border-bottom: 3px solid white;}
+ul.topnav li a.active {border-bottom: 3px solid white;color:black;}
 
 ul.topnav li.right {float: right;}
 
