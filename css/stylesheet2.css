@@ -257,7 +257,7 @@ project example page
 .section-h h6 {
   font-size: 15px;
   font-weight: 700;
-  color: #67a9a8;
+  color: #002fa7;
   text-transform: uppercase;
   margin-bottom: 15px;
 
@@ -266,7 +266,7 @@ project example page
 .section-h h2 {
   font-size: 30px;
   text-transform: capitalize;
-  color: #126c1f;
+  color: #67abda;
   font-weight: 800;
   position: relative;
   z-index: 2;
@@ -484,7 +484,7 @@ display:block;
 
 
 ul.topnav li a:hover{color:black;}
-ul.topnav li a.active {border-bottom: 3px solid white;color:#6e9fc0;font-weight:bold;}
+ul.topnav li a.active {border-bottom: 3px solid white;color:#edd5a5;font-weight:bold;}
 
 ul.topnav li.right {float: right;}
 
