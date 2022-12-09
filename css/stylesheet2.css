@@ -358,7 +358,8 @@ font-size:1.5vw;
 
 .contact-us {
 background-image:none;
-padding:50px;}
+padding:50px;
+margin-top:50px;}
 
 form#contact {
   position: relative;
