@@ -357,7 +357,8 @@ font-size:1.5vw;
 /*contact page*/
 
 .contact-us {
-background-image:none;}
+background-image:none;
+padding:50px;}
 
 form#contact {
   position: relative;
