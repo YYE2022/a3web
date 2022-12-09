@@ -266,7 +266,7 @@ section
 .section-h h2 {
   font-size: 30px;
   text-transform: capitalize;
-  color: #83b274;
+  color: #6d9773;
   font-weight: 800;
   position: relative;
   z-index: 2;
@@ -349,7 +349,7 @@ border-radius:40px;
 border-color:#e8a87c;
 margin:auto;
 padding:20px;}
-.newclass p{color:#83b274;
+.newclass p{color:#6d9773;
 font-weight:bold;
 font-size:1.5vw;
 }
