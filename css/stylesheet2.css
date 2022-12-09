@@ -144,7 +144,9 @@ h1 {
 }
 
 .card2 {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  border-radius: 17px;
+background-color: #f4b37d;
 }
 
 .container2 {
@@ -200,7 +202,7 @@ h1 {
     padding: 20px;
     overflow: hidden;
     background: #2B445B;
-  color: #fff;
+  color: #edd5a5;
 
 }
 #footer h3 a,
