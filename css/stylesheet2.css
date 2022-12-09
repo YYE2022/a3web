@@ -365,11 +365,11 @@ form#contact {
   background-color: #fff;
   padding: 60px 80px;
   border-radius: 50px;
-  border:5px solid #2d6131;
+  border:5px solid #8fbcdb;
   text-align: center;
 }
 form#contact button{
-background-color:#c1b64d;
+background-color:#ac4a47;
 }
 form#contact button:hover {
 background-color: #f4b37d!important;}
