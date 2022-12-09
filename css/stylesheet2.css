@@ -198,12 +198,11 @@ background-color: #FFEDDE;
 
 
 .wrap2 {
-
     position: relative;
     margin: 0 auto;
     padding: 20px;
     overflow: hidden;
-    background: #2B445B;
+    background: #436e96;
   color: #edd5a5;
 
 }
@@ -496,7 +495,7 @@ ul.topnav li.right {float: right;}
   ul.topnav li {float: none;}
 }
 
-.button{
+.button3{
   background-color:#f0e9e4;
   color:black;
   display:inline-block;
