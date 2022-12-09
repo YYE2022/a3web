@@ -495,3 +495,12 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
+
+.button{
+  background-color:#f0e9e4;
+  color:#caa2a4;
+  display:inline-block;
+  text-align:center;
+  text-decoration:none;
+
+}
