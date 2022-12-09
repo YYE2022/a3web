@@ -369,7 +369,11 @@ form#contact {
   border:5px solid #6d9773;
   text-align: center;
 }
-
+form#contact button{
+background-color:#bb8a52;
+}
+form#contact button:hover {
+background-color: #f4b37d!important;}
 
 
 @media (max-width: 992px) {
@@ -435,9 +439,6 @@ form#contact {
     text-align: center;
     padding: 30px;
   }
-
-
-
 
   .our-services .section-h {
     margin-left: 15px;
