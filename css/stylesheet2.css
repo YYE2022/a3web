@@ -178,7 +178,7 @@ h1 {
 }
 
 
-/* pls dont delet testing footer -chris*/
+/* ----------------------------------------XXXXXXXX-----------------------------------------*/
 #footer {
     position:relative;
     overflow: hidden;
@@ -194,14 +194,14 @@ h1 {
 
 
 .wrap2 {
+
     position: relative;
     margin: 0 auto;
     padding: 20px;
     overflow: hidden;
-    background: #3E3E3E;
+    background: #252957;
   color: #fff;
-    font:900 14px/26px 'Open Sans', sans-serif;
-  text-transform: uppercase;
+
 }
 #footer h3 a,
 #footer h3 p {
@@ -244,7 +244,7 @@ input2 {
     transition: background-color 0.2s ease-in-out;
 }
 
-
+/*------------------------------------------------------XXXXXXX-------------------------------------------------*/
 /* 
 ---------------------------------------------
 project example page
