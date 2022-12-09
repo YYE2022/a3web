@@ -266,7 +266,7 @@ project example page
 .section-h h2 {
   font-size: 30px;
   text-transform: capitalize;
-  color: #6d9773;
+  color: #126c1f;
   font-weight: 800;
   position: relative;
   z-index: 2;
@@ -455,7 +455,7 @@ background-color: #f4b37d!important;}
 ;
 }
 .header h2{
-color:#4d9190;
+color:#054f74;
 font-size:3vw;
   font-style: italic;
   font-weight:bold;
@@ -467,8 +467,8 @@ ul.topnav {
   padding: 0;
   overflow: hidden;
   position:relative;
-padding:5px;
-  background-color: #2d6131;
+  padding:5px;
+  background-color: #436e96;
   font-size:20px;
 }
 
@@ -484,7 +484,7 @@ display:block;
 
 
 ul.topnav li a:hover{color:black;}
-ul.topnav li a.active {border-bottom: 3px solid white;color:black;font-weight:bold;}
+ul.topnav li a.active {border-bottom: 3px solid white;color:#6e9fc0;font-weight:bold;}
 
 ul.topnav li.right {float: right;}
 
