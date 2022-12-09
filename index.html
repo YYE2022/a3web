@@ -25,6 +25,8 @@
 
     <!-- Our stylesheet/ CSS File -->
     <link rel="stylesheet" href="stylesheet.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!--
 
@@ -43,13 +45,13 @@ https://templatemo.com/tm-563-seo-dream
   <!-- ***** Header Area End ***** -->
 
   <div class="topnav" id="myTopnav">
-    <a href="index.html" class="active">Index</a>
-    <a href="Services.html">Services</a>
-    <a href="OurTeam.html">Our Team</a>
-    <a href="ProjectExamples.html">Project Examples</a>
-    <a href="Pricing.html">Pricing</a>
-    <a href="OurOffice.html">Our Office</a>
-    <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+    <a href="#home" class="active">Home</a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
   </div>
 
   <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
@@ -115,7 +117,6 @@ https://templatemo.com/tm-563-seo-dream
     </div>
   </footer>
 
-  <!-- Scripts -->
   <script>
     function myFunction() {
       var x = document.getElementById("myTopnav");
