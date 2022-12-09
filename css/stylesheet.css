@@ -654,7 +654,9 @@ h1 {
 
 
 
-/* pls dont delet testing meet the team columns-chris */
+/*                                                 XXXX                                         */
+
+
 .row2 > * {
     box-sizing: border-box;
   flex-shrink: 0;
@@ -731,6 +733,8 @@ h1 {
 
 
 .wrap2 {
+	
+    font-family: FontAwesome;
     position: relative;
     margin: 0 auto;
     padding: 20px;
@@ -738,7 +742,7 @@ h1 {
     background: #3E3E3E;
   color: #fff;
     font:900 14px/26px 'Open Sans', sans-serif;
-  text-transform: uppercase;
+  text-transform: ;
 }
 #footer h3 a,
 #footer h3 p {
@@ -762,7 +766,8 @@ h1 {
     width: 50%; /* of the squished parent width */
 }
 input2 {
-    font-size: 100%;
+    
+-size: 100%;
 }
 .subscribe_button2 {
     margin: 0;
