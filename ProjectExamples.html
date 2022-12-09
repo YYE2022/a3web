@@ -20,9 +20,10 @@
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/fontawesome.css">
     <link rel="stylesheet" href="https://templatemo.com/templates/templatemo_563_seo_dream/assets/css/templatemo-seo-dream.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- Our CSS file to overwrite template -->
-    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="stylesheet" href="css/stylesheet2.css">
 
 <!--
 
@@ -37,83 +38,82 @@ https://templatemo.com/tm-563-seo-dream
 <body>
 
  <!-- ***** Header Area Start ***** -->
- <header class="header-new header-stick wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <nav class="main-Nav">
-            <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
-              <h4>Geospatial Visions</h4>
-            </a>
-            <!-- ***** Logo End ***** -->
-            <!-- ***** Menu Start ***** -->
-            <ul class="nav">
-                <li class="scroll-to-section"><a href="index.html">Home</a></li>
-                <li class="scroll-to-section"><a href="Services.html">Services</a></li>
-                <li class="scroll-to-section"><a href="OurTeam.html">Our Team</a></li>
-                <li class="scroll-to-section"><a href="ProjectExamples.html"class="active">Project Examples</a></li>
-                <li class="scroll-to-section"><a href="Pricing.html">Pricing</a></li>
-                <li class="scroll-to-section"><a href="OurOffice.html">Our Office</a></li>
-              </ul>       
-            <a class='menu-Trig'>
-                <span>Menu</span>
-            </a>
-            <!-- ***** Menu End ***** -->
-          </nav>
-        </div>
-      </div>
-    </div>
-  </header>
+<div class="header">
+	<ul class="topnav">
+	  <li><a class="active" "index.html" class="active">Home</a></li>
+	  <li><a href="Services.html">Services</a></li>
+	  <li><a href="OurTeam.html">Our Team</a></li>
+	  <li><a href="ProjectExamples.html">Project Examples</a></li>
+	  <li><a href="Pricing.html">Pricing</a></li>
+	  <li class="right"><a href="OurOffice.html">Our Office</a></li>
+	</ul>
+</div>
   <!-- ***** Header Area End ***** -->
 
-  <div id="services" class="our-services section">
-    <div class="container">
-    <div class="row">
-        <div class="col-lg-6 offset-lg-3">
-        <div class="section-h">
-            <h6>Our Services</h6>
-            <h2>Discover What We Do and What We Offer</h2>
-        </div>
-        </div>
-    </div>
-    </div>
-    <div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-        <div class="service-item">
-            <div class="row">
-                <img src="images/survey.jpeg" alt="surveymap">
-            <div class="col-lg-8">
-                <h4>Survey</h4>
-                <p>Gather field notes. Draw Site Plan.</p>
-            </div>
-            </div>
-        </div>
-        </div>
-        <div class="col-lg-4">
-        <div class="service-item " >
-            <div class="row">
-                <img src="images/qualmap.jpeg" alt="qualitative map">
-            <div class="col-lg-8">
-                <h4>Qualitative Map</h4>
-                <p>Land Use Map, Soil Map, Transportation network Map, etc.</p>
-            </div>
-            </div>
-        </div>
-        </div>
-        <div class="col-lg-4">
-        <div class="service-item" >
-            <div class="row">
-                <img src="images/quanmap.jpeg" alt="quantitative map">
-            <div class="col-lg-8">
-                <h4>Quantitative Map</h4>
-                <p>Heat Map, Crime Rate Map, Population Density Map, etc.</p>
-            </div>
-            </div>
-        </div>
-        </div>
 
+    
+    <div id="services" class="our-services section">
+        <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3">
+            <div class="section-h">
+                <h6>Our Services</h6>
+                <h2>Discover What We Do and What We Offer</h2>
+            </div>
+            </div>
+        </div>
+        </div>
+        <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-4">
+            <div class="service-item">
+                <div class="row">
+                    <img src="images/survey.jpeg" alt="surveymap">
+                <div class="col-lg-8">
+                    <h4>Survey</h4>
+                    <p>Gather field notes. Draw Site Plan.</p>
+                </div>
+                </div>
+            </div>
+            </div>
+            <div class="col-lg-4">
+            <div class="service-item " >
+                <div class="row">
+                    <img src="images/qualmap.jpeg" alt="qualitative map">
+                <div class="col-lg-8">
+                    <h4>Qualitative Map</h4>
+                    <p>Land Use Map, Soil Map, Transportation network Map, etc. </p>
+                </div>
+                </div>
+            </div>
+            </div>
+            <div class="col-lg-4">
+            <div class="service-item" >
+                <div class="row">
+                    <img src="images/quanmap.jpeg" alt="quantitative map">
+                <div class="col-lg-8">
+                    <h4>Quantitative Map</h4>
+                    <p>Heat Map, Crime Rate Map, Population Density Map, etc. </p>
+                </div>
+                </div>
+            </div>
+            </div>
+			<div class="col-lg-4">
+                <div class="newclass">
+                    <p>Get Your Quote Today!</p>
+					<p id="demo">Click here.</p>
+					<script>
+					document.getElementById("demo").addEventListener("click", myFunction);
+					function myFunction() {
+					 document.getElementById("demo").innerHTML = "Please give us a call directly";}
+					</script>
+                </div>
+            </div>
+            </div>
+
+        </div>
+        </div>
+    </div>
 
     <footer>
         <div class="container">
