@@ -119,12 +119,7 @@ h1 {
 
 /* ---------------------------------------------XXX---------------XXXX------------------------------------ */
 
-.profileimage {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
-}
+
 
 .row2 > * {
     box-sizing: border-box;
@@ -150,7 +145,7 @@ h1 {
     display: block;
   }
 }
-
+/*--------------profile picture  container--------------*/
 .card2 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
   border-radius: 17px;
@@ -170,7 +165,13 @@ background-color: #FFEDDE;
 .title2 {
   color: grey;
 }
-
+/*----------------profile image--------------------*/
+.profileimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
 .button2 {
   border: none;
   outline: 0;
