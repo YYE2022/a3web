@@ -505,7 +505,7 @@ ul.topnav li.right {float: right;}
   padding: 5px 10px;
 
 }
-/*responsive*/
+/*responsive footer-YYE*/
 @media screen and (max-width: 800px) {
   .left2, .centered2, .right2
       {width: 50%;}
