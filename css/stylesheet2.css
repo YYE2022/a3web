@@ -108,8 +108,6 @@ h1 {
   margin-bottom: 30px;
 }
 
-/* ---XXX--XXXX-- */
-
 .row2 > * {
     box-sizing: border-box;
   flex-shrink: 0;
@@ -178,7 +176,7 @@ border-radius: 5%;
 }
 
 
-/* --XXXX3XXX--*/
+/* --Chris V--*/
 #footer {
     position:relative;
     overflow: hidden;
@@ -363,7 +361,7 @@ Services Style/Yingjia Ye
 }
 
 
-/*contact page Yingjia Ye*/
+/*contact page --Yingjia Ye*/
 .contact-us {
 background-image:none;
 padding:50px;
@@ -462,7 +460,7 @@ font-size:3vw;
   font-style: italic;
   font-weight:bold;
 }
-/*navbar*/
+/*navbar YYE*/
 ul.topnav {
   list-style-type: none;
   margin-top: 5px;
@@ -496,6 +494,7 @@ ul.topnav li.right {float: right;}
   col.lg-8 h4{font-size:2vw;}
 }
 
+/*style js button*/
 .button3{
   background-color:#f0e9e4;
   color:black;
