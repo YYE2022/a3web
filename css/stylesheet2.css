@@ -205,14 +205,14 @@ border-radius: 5%;
 .left2 {
     float: left;
     width: 25%;
+    font-size:
 }
 .right2 {
     float: right;
     width: 25%;
-    font-size:2vw;
+
 }
-.right2 h3{
-  font-size:10px;}
+
 .centered2 {
     overflow: hidden; /* claim the left over width between these 25% floats */
 }
