@@ -167,10 +167,9 @@ background-color: #FFEDDE;
 }
 /*----------------profile image--------------------*/
 .profileimage {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 20%;
+padding: 8px;
+border-radius: 5%;
 }
 .button2 {
   border: none;
