@@ -1,4 +1,4 @@
-/*Over-writing css on Index page*/
+/*Over-writing css on Index page. Completed by Hillary*/
 .main-green-button a {
   display: inline-block;
   background-color: #379f91;
@@ -71,7 +71,7 @@ h1 {
   -webkit-text-fill-color: transparent;
 }
 
-/*Over-writing css on Services page*/
+/*Over-writing css on Services page. Completed by Hillary*/
 .line-service {
   width: 100px;
   height: 2px;
