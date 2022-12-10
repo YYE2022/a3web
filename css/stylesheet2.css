@@ -435,11 +435,6 @@ background-color: #f4b37d!important;}
 
 @media (max-width: 767px) {
 
-  .header-new .main-Nav .logo h4 img {
-    max-width: 30px;
-    margin-left: 5px;
-  }
-
   .service-item {
     text-align: center;
     padding: 30px;
