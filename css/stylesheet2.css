@@ -241,6 +241,7 @@ input2 {
     text-align: center;
     text-transform: uppercase;
     cursor: pointer;
+    font-size:10px;
     -webkit-transition: background-color 0.2s ease-in-out;
     -moz-transition: background-color 0.2s ease-in-out;
     -ms-transition: background-color 0.2s ease-in-out;
