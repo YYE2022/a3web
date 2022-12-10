@@ -108,18 +108,7 @@ h1 {
   margin-bottom: 30px;
 }
 
-/* */
-
-
-
-
-
-
-
-
-/* ---------------------------------------------XXX---------------XXXX------------------------------------ */
-
-
+/* ---XXX--XXXX-- */
 
 .row2 > * {
     box-sizing: border-box;
@@ -145,7 +134,7 @@ h1 {
     display: block;
   }
 }
-/*--------------profile picture  container--------------*/
+/*--profile picture  container--*/
 .card2 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
   border-radius: 17px;
@@ -165,7 +154,7 @@ background-color: #FFEDDE;
 .title2 {
   color: grey;
 }
-/*----------------profile image--------------------*/
+/*--profile image--*/
 .profileimage {
   width: 20%;
 border-radius: 5%;
@@ -189,7 +178,7 @@ border-radius: 5%;
 }
 
 
-/* ----------------------------------------XXXX3XXX-----------------------------------------*/
+/* --XXXX3XXX--*/
 #footer {
     position:relative;
     overflow: hidden;
