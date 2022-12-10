@@ -288,6 +288,7 @@ max-width:100%;}
 .col-lg-4 {
     flex: auto;
     width: 100%;
+    padding:10px;
   }
 .col-lg-8 {
     flex: auto;
