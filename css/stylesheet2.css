@@ -247,10 +247,9 @@ border-radius: 25%;
 }
 
 
-/*----------XXXX--------------------------------------------XXXXXXX-----------------------------------------XXX-----*/
-/* 
+/*
 ---------------------------------------------
-project example page
+project example page/Yingjia Y
 --------------------------------------------- 
 */
 .section-h {
@@ -291,6 +290,9 @@ max-width:100%;}
     width: 100%;
   }
 
+
+/*bottom at project example*/
+/*Yingjia Ye*/
 .newclass{
 text-align:center;
 border:solid;
@@ -306,7 +308,7 @@ font-size:1.5vw;
 
 /* 
 ---------------------------------------------
-Services Style
+Services Style/Yingjia Ye
 --------------------------------------------- 
 */
 .our-services {
@@ -361,7 +363,7 @@ Services Style
 }
 
 
-/*contact page*/
+/*contact page Yingjia Ye*/
 .contact-us {
 background-image:none;
 padding:50px;
@@ -381,7 +383,7 @@ background-color:#ac4a47;
 form#contact button:hover {
 background-color: #f4b37d!important;}
 
-
+/*responsive*/
 @media (max-width: 992px) {
 
   .main-banner .left-content {
@@ -430,6 +432,7 @@ background-color: #f4b37d!important;}
   }
 }
 
+/*responsive*/
 @media (max-width: 767px) {
 
   .service-item {
@@ -448,7 +451,7 @@ background-color: #f4b37d!important;}
 
 }
 
-/*header*/
+/*header-YingjiaYe*/
 .header {padding: 20px;
   text-align: center;
 ;
@@ -481,7 +484,7 @@ display:block;
   text-decoration: none;
 }
 
-
+/*mouse hover menu bar*/
 ul.topnav li a:hover{color:black;}
 ul.topnav li a.active {border-bottom: 3px solid white;color:#edd5a5;font-weight:bold;}
 
@@ -503,7 +506,7 @@ ul.topnav li.right {float: right;}
   padding: 5px 10px;
 
 }
-
+/*responsive*/
 @media screen and (max-width: 800px) {
   .left2, .centered2, .right2
       {width: 50%;}
