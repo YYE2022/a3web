@@ -221,13 +221,15 @@ background-color: #FFEDDE;
     width: 25%;
     font-size:2vw;
 }
+.right2 h3{
+  font-size:1.5vw;}
 .centered2 {
     overflow: hidden; /* claim the left over width between these 25% floats */
 }
 .social2 {
     float: right;
     width: 50%; /* of the squished parent width */
-    font-size:2vw;
+    font-size:1.5vw;
 }
 input2 {
     font-size: 100%;
