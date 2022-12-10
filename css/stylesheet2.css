@@ -219,6 +219,7 @@ background-color: #FFEDDE;
 .right2 {
     float: right;
     width: 25%;
+    font-size:2vw;
 }
 .centered2 {
     overflow: hidden; /* claim the left over width between these 25% floats */
@@ -226,6 +227,7 @@ background-color: #FFEDDE;
 .social2 {
     float: right;
     width: 50%; /* of the squished parent width */
+    font-size:2vw;
 }
 input2 {
     font-size: 100%;
