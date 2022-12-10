@@ -118,6 +118,14 @@ h1 {
 
 
 /* ---------------------------------------------XXX---------------XXXX------------------------------------ */
+
+.profileimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .row2 > * {
     box-sizing: border-box;
   flex-shrink: 0;
