@@ -314,6 +314,11 @@ Services Style/Yingjia Ye
 
 .our-services {
   padding-top: 50px;
+  
+}
+
+
+.our-services .container-fluid {
   padding: 20px;
   width:50%;
 
@@ -335,7 +340,7 @@ Services Style/Yingjia Ye
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 
-.service-item  {
+.service-item .right-content {
     display: none;
 	text-align:center;
   }
