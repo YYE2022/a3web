@@ -223,7 +223,7 @@ border-radius: 5%;
     font-size:2vw;
 }
 .right2 h3{
-  font-size:1.5vw;}
+  font-size:10px;}
 .centered2 {
     overflow: hidden; /* claim the left over width between these 25% floats */
 }
