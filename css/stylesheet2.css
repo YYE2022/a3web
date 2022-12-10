@@ -208,9 +208,9 @@ background-color: #FFEDDE;
 }
 #footer h3 a,
 #footer h3 p {
-    margin: 0;
+  margin: 0;
   color: #fff;
-    text-decoration: none;
+  text-decoration: none;
 }
 .left2 {
     float: left;
@@ -378,9 +378,7 @@ background-color: #f4b37d!important;}
 
 
 @media (max-width: 992px) {
-  .header-area .main-nav .logo h4 {
-    font-size: 20px;
-  }
+
   .main-banner .left-content {
     margin-right: 0px;
   }
@@ -428,9 +426,7 @@ background-color: #f4b37d!important;}
 }
 
 @media (max-width: 767px) {
-  .header-new .main-Nav .logo h4 {
-    font-size: 30px;
-  }
+
   .header-new .main-Nav .logo h4 img {
     max-width: 30px;
     margin-left: 5px;
@@ -449,6 +445,7 @@ background-color: #f4b37d!important;}
   form#contact {
     padding: 30px;
   }
+  .footer{}
 }
 
 /*header*/
@@ -505,3 +502,8 @@ ul.topnav li.right {float: right;}
   padding: 5px 10px;
 
 }
+
+@media screen and (max-width: 800px) {
+  .left2, .centered2, .right2 
+      {width: 100%;}
+	}
