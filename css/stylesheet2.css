@@ -253,11 +253,8 @@ input2 {
 }
 
 .Pricingtail {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 75%;
-border-radius: 50%;
+border-radius: 25%;
 }
 
 
