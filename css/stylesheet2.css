@@ -517,5 +517,5 @@ ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 800px) {
   .left2, .centered2, .right2
-      {width: 100%;}
+      {width: 50%;}
 	}
